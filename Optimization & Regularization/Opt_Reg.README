@@ -1,0 +1,29 @@
+Dataset & Model
+MNIST — Implement a neural network using Python + NumPy/PyTorch.
+1. Optimization
+Train the same model with:
+Batch Gradient Descent
+SGD
+Momentum
+Adam
+- Plot Training Loss vs. Epoch and identify which optimizer converges fastest.
+2. Regularization
+Compare:
+No Regularization
+L2
+L1
+Dropout
+- Compare Training/Validation Loss & Accuracy and analyze generalization.
+3. Activation Functions
+Compare:
+ReLU
+Sigmoid
+Tanh
+- Compare loss, accuracy, and convergence while keeping the architecture and optimizer fixed.
+Analysis
+Answer:
+Which optimizer converged fastest?
+How did L1/L2 affect the weights?
+How did dropout affect training vs. validation?
+Which activation function performed differently and why?
+Which configuration generalized best, and why?
